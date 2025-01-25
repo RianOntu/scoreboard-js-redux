@@ -64,7 +64,11 @@ input[type="number"] {
   transition: all 0.3s ease;
   font-weight: 500;
 }
-
+.submit{
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
 input::-webkit-inner-spin-button {
   appearance: none;
 }
